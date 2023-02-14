@@ -1,6 +1,6 @@
 # Linux_do_zero
 Bootcamp with DIO 
-## Links dos certicados adiquiridos ao londo do bootcamp
+## Links dos certicados adquiridos ao londo do bootcamp
 ### Prepare-se para a jornada
 [Conheça as oportunidades da DIO](https://hermes.digitalinnovation.one/certificates/69371C47.pdf)
 
