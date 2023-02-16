@@ -16,6 +16,15 @@ Bootcamp with DIO
 
 [Criando seu primeiro repositório no GitHub para compartilhar seu progresso](https://hermes.digitalinnovation.one/certificates/DD6C33E8.pdf)
 
+### Primeiros passos com o sistema operacional Linux Server/Desktop
+
+[Introdução ao sistema operacional Linux](https://hermes.digitalinnovation.one/certificates/CB5EDC6F.pdf)
+
+[Instalando o Linux](https://hermes.digitalinnovation.one/certificates/D9B8E569.pdf)
+
+[Acesso remoto a maquinas Linux](https://hermes.digitalinnovation.one/certificates/CABA2502.pdf)
+
+
 
 
 
