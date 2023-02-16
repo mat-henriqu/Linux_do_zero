@@ -1,6 +1,6 @@
 # Linux_do_zero
 Bootcamp with DIO 
-## Links dos certificados adquiridos ao londo do bootcamp
+## Links dos certificados adquiridos ao longo do bootcamp
 ### Prepare-se para a jornada
 [Conheça as oportunidades da DIO](https://hermes.digitalinnovation.one/certificates/69371C47.pdf)
 
@@ -23,10 +23,3 @@ Bootcamp with DIO
 [Instalando o Linux](https://hermes.digitalinnovation.one/certificates/D9B8E569.pdf)
 
 [Acesso remoto a maquinas Linux](https://hermes.digitalinnovation.one/certificates/CABA2502.pdf)
-
-
-
-
-
-
-
