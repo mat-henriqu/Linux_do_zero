@@ -23,3 +23,5 @@ Bootcamp with DIO
 [Instalando o Linux](https://hermes.digitalinnovation.one/certificates/D9B8E569.pdf)
 
 [Acesso remoto a maquinas Linux](https://hermes.digitalinnovation.one/certificates/CABA2502.pdf)
+
+[Manipulando arquivos no Linux](https://hermes.digitalinnovation.one/certificates/48D316FB.pdf)
