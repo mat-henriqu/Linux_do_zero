@@ -28,3 +28,5 @@ Bootcamp with DIO
 
 [Gerenciando usuarios no Linux](https://hermes.digitalinnovation.one/certificates/183F6E1C.pdf)
 
+[Gerenciamente de pacotes Linux](https://hermes.digitalinnovation.one/certificates/47755E2B.pdf)
+
