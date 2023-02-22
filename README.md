@@ -32,3 +32,6 @@ Bootcamp with DIO
 
 [Gerenciamento de discos no Linux](https://hermes.digitalinnovation.one/certificates/253613E3.pdf)
 
+[Copiando arquivos e manipulando processos](https://hermes.digitalinnovation.one/certificates/87F34E1E.pdf)
+
+
