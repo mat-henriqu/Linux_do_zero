@@ -30,3 +30,5 @@ Bootcamp with DIO
 
 [Gerenciamento de pacotes Linux](https://hermes.digitalinnovation.one/certificates/47755E2B.pdf)
 
+[Gerenciamento de discos no Linux](https://hermes.digitalinnovation.one/certificates/253613E3.pdf)
+
