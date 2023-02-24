@@ -34,4 +34,8 @@ Bootcamp with DIO
 
 [Copiando arquivos e manipulando processos](https://hermes.digitalinnovation.one/certificates/87F34E1E.pdf)
 
+[Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões](https://hermes.digitalinnovation.one/certificates/54206837.pdf)
+
+### Configurando servidores Linux e introdução ao Doker
+
 
