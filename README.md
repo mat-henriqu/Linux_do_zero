@@ -48,4 +48,6 @@ Bootcamp with DIO
 
 [Docker: Utilização Prática no Cenário de Microsserviços](https://hermes.digitalinnovation.one/certificates/8B92D810.pdf)
 
+### Fortalecendo seu perfil profissional 
 
+[Deixando seu linkedin atrativo](https://hermes.digitalinnovation.one/certificates/C7C9BC95.pdf)
