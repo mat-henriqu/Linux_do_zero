@@ -38,4 +38,13 @@ Bootcamp with DIO
 
 ### Configurando servidores Linux e introdução ao Doker
 
+[Servidores de arquivos com Linux](https://hermes.digitalinnovation.one/certificates/E2867F76.pdf)
+
+[Criando um servidor web com Linux](https://hermes.digitalinnovation.one/certificates/A38789B6.pdf)
+
+[Servidor de banco de dados com Linux](https://hermes.digitalinnovation.one/certificates/EDC6ACA7.pdf)
+
+[Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)](https://hermes.digitalinnovation.one/certificates/87FA6556.pdf)
+
+
 
