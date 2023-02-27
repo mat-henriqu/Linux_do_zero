@@ -46,5 +46,6 @@ Bootcamp with DIO
 
 [Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)](https://hermes.digitalinnovation.one/certificates/87FA6556.pdf)
 
+[Docker: Utilização Prática no Cenário de Microsserviços](https://hermes.digitalinnovation.one/certificates/8B92D810.pdf)
 
 
