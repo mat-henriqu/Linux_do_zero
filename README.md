@@ -51,3 +51,10 @@ Bootcamp with DIO
 ### Fortalecendo seu perfil profissional 
 
 [Deixando seu linkedin atrativo](https://hermes.digitalinnovation.one/certificates/C7C9BC95.pdf)
+
+[Turbine seu curriculo na DIO](https://hermes.digitalinnovation.one/certificates/2894BDF0.pdf)
+
+[Transformando seu conhecimento em artigos tecnicos](https://hermes.digitalinnovation.one/certificates/98E3AC75.pdf)
+
+[Se preparando para uma entrevista](https://hermes.digitalinnovation.one/certificates/30722FA0.pdf)
+
