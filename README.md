@@ -1,4 +1,4 @@
-# Linux do zero
+# [Linux do zero](https://hermes.digitalinnovation.one/certificates/75E34FAF.pdf)
 Bootcamp with DIO 
 ## Links dos certificados adquiridos ao longo do bootcamp
 ### Prepare-se para a jornada
